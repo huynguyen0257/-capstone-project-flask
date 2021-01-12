@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+pandas
+jupyter
+sklearn
+cmake
+dlib
+face_recognition
+opencv-python
+keras
+tensorflow
